@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Repository!
 
-Hello! I'm wesloa, a developer with experience in C#, Lua, C++, HTML, CSS, and JavaScript. I run a YouTube channel where I share insights, tutorials, and projects related to game development, modding, and programming. I'm also the creator and owner of **WesloaCheats**, where I develop and share custom cheats and tools for various games.
+Hello! I'm wesloa, a developer with experience in C#, Lua, C++, HTML, CSS, and JavaScript. I run a YouTube channel where I share insights, tutorials, and projects related to game development, modding, and programming.
 
 ### What You'll Find Here:
 
